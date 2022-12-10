@@ -1,4 +1,4 @@
-#Homework 3
+#Homework 2
 
 You must do the project individually. In this HW you will design a backdoor detector for 
 BadNets trained on the YouTube Face dataset using the pruning defense discussed in 
